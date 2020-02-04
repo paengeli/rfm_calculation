@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580813330352.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CFA32FCE",
+    "lastKnownWriteTime" : 1580813513,
+    "last_content_update" : 1580813513608,
+    "path" : "~/Documents/uzh/Semester 11/R/myRFMcalculation/man/hello.Rd",
+    "project_path" : "man/hello.Rd",
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

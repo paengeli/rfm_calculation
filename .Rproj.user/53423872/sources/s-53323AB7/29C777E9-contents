@@ -1,0 +1,13 @@
+library(myRFMcalculation)
+
+transactions <- fread("transactions.csv")
+
+str(transactions)
+
+transactions[, TransDate:=dmy(TransDate, tz="UTC")]
+
+RFM <- RFMfunction(transactions, 60,20,20)
+
+install.packages("roxygen2")
+library(roxygen2)
+
